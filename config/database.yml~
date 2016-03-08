@@ -15,7 +15,7 @@ development:
 
 production:
   adapter: postgresql
-  database: db/production.postgresql
+  database: name_of_your_db
   pool: 5
   timeout: 5000
 
